@@ -8,7 +8,7 @@ REST API runs by default on TCP port 6990, WebSocket proxy on TCP port 6991. RES
 
 ## Getting Started
 
-You start WDF with this command:
+You can start WDF with this command:
 
     java -jar wdf-1.5.0.jar wdf.conf
 
